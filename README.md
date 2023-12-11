@@ -4,11 +4,9 @@ This repository contains my assignment and resources related to the Information 
 
 ## Queries
 
-Queries focuses on [provide a brief description of the queries]. Explore the contents of the [Queries folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Querys) for more details.
+Queries focuses on [labsheets upto 7]. Explore the contents of the [Queries folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Querys) for more details.
 
 ## Past Papers
-
-- [Link to Past Papers Folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Past%20Papers)
 
 Explore the [Past Papers folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Past%20Papers) for access to relevant exam papers.
 
