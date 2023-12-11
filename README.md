@@ -3,8 +3,7 @@
 This repository contains my assignment and resources related to the Information Systems and Data Modeling module in Year 01 Semester 02.
 
 ## Queries
-
-Queries focuses on [labsheets upto 7]. Explore the contents of the [Queries folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Querys) for more details.
+Explore the contents of the [Queries folder](https://github.com/Harshamal-Masinghe/ISDM/tree/819a3097d14df3828bbdd7d10cbe79ee04c28729/Querys) for more details.
 
 ## Past Papers
 
